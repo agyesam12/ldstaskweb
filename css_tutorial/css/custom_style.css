@@ -7,9 +7,18 @@ p,a{
 }
 a{
     text-decoration: none;
+    /*text-decoration-color: goldenrod; */
+    text-shadow: 2px 2px rgb(235, 71, 71)
     
 }
 
 .link{
 background-color:blue;
+}
+
+#mothers-day{
+    color:pink;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
 }
