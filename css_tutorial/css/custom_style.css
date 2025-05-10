@@ -2,4 +2,14 @@ p,a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:aquamarine;
     font-size: 72px;
+    font-weight: bolder;
+
+}
+a{
+    text-decoration: none;
+    
+}
+
+.link{
+background-color:blue;
 }
